@@ -84,8 +84,8 @@ logo = """
 
 \033[1;91m=======================================
 \033[1;96mAuthor  \033[1;93m: \033[1;92mKachi Lee
-\033[1;96mInstagram \033[1;93m: \033[1:92Kachi0097
-\033[1;96mFacebook  \033[1;93m: \033[1:92Kachi.Lee.7416
+\033[1;96mInstagram \033[1;93m: \033[1:92mKachi0097
+\033[1;96mFacebook  \033[1;93m: \033[1:92mKachi.Lee.7416
 \033[1;96mGithub \033[1;93m: \033[1;92mhttps://github.com/Kachi0097/NIGERIABEST
 \033[1;91m======================================="""
 
@@ -139,7 +139,7 @@ print  """\033[1;91m
                      ▇▇▇▇◣▇◢▇▇▇▇
                    WhatsApp : 09035850097
 \033[1;96mAuthor  \033[1;93m: \033[1;92mKachi Lee
-\033[1;96mInstagram \033[1;93m: \033[1;92Kachi0097
+\033[1;96mInstagram \033[1;93m: \033[1;92mKachi0097
 \033[1;96mFacebook  \033[1;93m: \033[1;92mKachi.Lee.7416
 \033[1;96mGithub \033[1;93m: \033[1;92mhttps://github.com/Kachi077/NIGERIABEST
 \033[1;91m======================================="""
