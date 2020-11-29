@@ -47,7 +47,10 @@ def jalan(z):
 
 
 ##### LOGO #####
-logo = """ ▄︻┻═┳一 Welcome To The Fastest Ever Cloning
+logo = """
+
+
+           ▄︻┻═┳一 Welcome To The Fastest Ever Cloning
            ▄︻┻═┳一 ♥️Kachi-Lee Official♥️----------🔴
            ▄︻┻═┳一 ♥️♥️ KACHI-CLONER ♥️♥️----🔴🔴
            ▄︻┻═┳一    💪💪KACHI-LEE💪💪   🔴🔴
@@ -64,7 +67,7 @@ logo = """ ▄︻┻═┳一 Welcome To The Fastest Ever Cloning
 ╚═╝░░╚═╝╚═╝░░╚═╝░╚════╝░╚═╝░░╚═╝╚═╝
                                                  
                WhatsApp: 09035850097
-                        KACHI
+                        
                      ▇◤▔▔▔▔▔▔▔◥▇
                      ▇▏◥▇◣┊◢▇◤▕▇
                      ▇▏▃▆▅▎▅▆▃▕▇
@@ -120,12 +123,12 @@ print  """\033[1;91m
 
 
 
-jsjsjj
 
 
 
 
-                        KACHI
+
+
                      ▇◤▔▔▔▔▔▔▔◥▇
                      ▇▏◥▇◣┊◢▇◤▕▇
                      ▇▏▃▆▅▎▅▆▃▕▇
